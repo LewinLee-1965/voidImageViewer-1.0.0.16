@@ -88,7 +88,7 @@ Live RGB / Gray and POS on the status bar
 
 ### Main window (upstream UI)
 
-![Main window](docs\screenshots\main.png)
+![Main window](docs/screenshots/main.png)
 
 ### Options — General
 
