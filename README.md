@@ -92,13 +92,13 @@ Live RGB / Gray and POS on the status bar
 
 ### Options — General
 
-![Options](docs\screenshots\options.png)
+![Options](docs/screenshots/options.png)
 
 In **1.0.0.16**, General options also include **Add VoidImageViewer to Explorer context menu** (per-user, no admin required; does **not** change the default open program).
 
 ### View huge frame & Source pixels
 
-![View huge frame](docs\screenshots\hugeImageView.png)
+![View huge frame](docs/screenshots/hugeImageView.png)
 
 ## What's new in 1.0.0.16
 
