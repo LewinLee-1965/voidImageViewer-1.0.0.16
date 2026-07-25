@@ -88,23 +88,17 @@ Live RGB / Gray and POS on the status bar
 
 ### Main window (upstream UI)
 
-Void Image Viewer Image View
+![Main window](docs\screenshots\main.png)
 
 ### Options — General
 
-Void Image Viewer Options General
+![Options](docs\screenshots\options.png)
 
 In **1.0.0.16**, General options also include **Add VoidImageViewer to Explorer context menu** (per-user, no admin required; does **not** change the default open program).
 
-### Options — View
+### View huge frame & Source pixels
 
-Void Image Viewer Options View
-
-### Options — Controls
-
-Void Image Viewer Image Controls
-
----
+![View huge frame](docs\screenshots\hugeImageView.png)
 
 ## What's new in 1.0.0.16
 
