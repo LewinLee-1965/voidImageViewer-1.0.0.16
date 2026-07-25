@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="120" viewBox="0 0 920 120" role="img" aria-labelledby="title desc">
+  <title id="title">Status bar pixel probe layout</title>
+  <desc id="desc">Left-aligned status parts show Gray or RGB pixel value and POS coordinates</desc>
+  <rect width="920" height="120" fill="#f7f7f5"/>
+  <text x="24" y="28" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#444">Status bar (bottom-left)  live cursor sampling</text>
+  <rect x="24" y="48" width="872" height="44" rx="4" fill="#ecece8" stroke="#c8c8c0"/>
+  <rect x="32" y="56" width="150" height="28" rx="3" fill="#2b2b2b"/>
+  <text x="44" y="75" font-family="Consolas, monospace" font-size="13" fill="#f2f2f2">RGB: 128,64,200</text>
+  <rect x="190" y="56" width="120" height="28" rx="3" fill="#2b2b2b"/>
+  <text x="202" y="75" font-family="Consolas, monospace" font-size="13" fill="#f2f2f2">POS: 3840,2160</text>
+  <rect x="318" y="56" width="160" height="28" rx="3" fill="#d8d8d2"/>
+  <text x="330" y="75" font-family="Consolas, monospace" font-size="13" fill="#333">7680 × 4320</text>
+  <text x="500" y="75" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#666">& filename / frame / zoom &</text>
+  <text x="24" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#666">Grayscale images show <tspan font-family="Consolas, monospace" fill="#222">Gray: N</tspan> instead of RGB.</text>
+</svg>
